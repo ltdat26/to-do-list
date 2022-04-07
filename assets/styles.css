@@ -215,5 +215,6 @@ select {
 
 .todo__deleted label {
   font-style: italic;
+  text-decoration-line: line-through;
   color: var(--text-color-light);
 }
